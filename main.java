@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.Vector;
-
+// Java is a beautiful language to code with it.
 public class main {
 
 	public static Vector<String> curPostfix=new Vector<String>();  // Inbox string for conversion from infix to postfix.
